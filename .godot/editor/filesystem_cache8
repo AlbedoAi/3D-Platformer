@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1724577792
+block.tscn::PackedScene::7170015194631283172::1724567001::0::1::::<><>::
+coin.gd::GDScript::-1::1724572650::0::1::::<>Area3D<>::
+coin.tscn::PackedScene::7056703703422464998::1724576903::0::1::::<><>::res://coin.gd<>uid://dtlnsmtht4qk0::::res://Assets/Models/coin_new.res
+icon.gd::GDScript::-1::1724570823::0::1::::<>Sprite3D<>::
+icon.svg::CompressedTexture2D::5795561702918661210::1724563287::1724568257::1::::<><>::
+level_1.tscn::PackedScene::540596456770604051::1724576942::0::1::::<><>::uid://dafhdqywbt1l5::::res://block.tscn<>uid://bvlxshft3alom::::res://steve.tscn<>uid://cotob4ai4vpqg::::res://icon.svg<>res://icon.gd<>uid://c7sk45ee0jp0a::::res://coin.tscn
+plugin.cfg::TextFile::-1::1724573950::0::1::::<><>::
+plugin.gd::GDScript::-1::1724573950::0::1::::<>EditorPlugin<>::
+steve.gd::GDScript::-1::1724567134::0::1::::<>CharacterBody3D<>::
+steve.tscn::PackedScene::3884523566798532212::1724571908::0::1::::<><>::res://steve.gd
+::res://Assets/::1724576341
+::res://Assets/Models/::1724576554
+coinasset.glb::PackedScene::5475189527808376337::1724576357::1724577793::1::::<><>::uid://dtlnsmtht4qk0::::res://Assets/Models/coin_new.res
+coin_new.res::ArrayMesh::8516380360668910821::1724577793::0::1::::<><>::
